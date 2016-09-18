@@ -1,22 +1,28 @@
 {
   "stickers" : [
     {
-      "filename" : "Confetti.sticker"
-    },
-    {
-      "filename" : "Yellow Flowers.sticker"
+      "filename" : "80s.sticker"
     },
     {
       "filename" : "Arrows.sticker"
     },
     {
+      "filename" : "Bouqets.sticker"
+    },
+    {
+      "filename" : "Confetti.sticker"
+    },
+    {
+      "filename" : "Daffodils.sticker"
+    },
+    {
       "filename" : "Lemons.sticker"
     },
     {
-      "filename" : "80s.sticker"
+      "filename" : "Purple Roses.sticker"
     },
     {
-      "filename" : "Bouquet.sticker"
+      "filename" : "Red & Pink Roses.sticker"
     }
   ],
   "info" : {
@@ -24,6 +30,6 @@
     "author" : "xcode"
   },
   "properties" : {
-    "grid-size" : "regular"
+    "grid-size" : "small"
   }
 }
