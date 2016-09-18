@@ -1,0 +1,29 @@
+{
+  "stickers" : [
+    {
+      "filename" : "Confetti.sticker"
+    },
+    {
+      "filename" : "Yellow Flowers.sticker"
+    },
+    {
+      "filename" : "Arrows.sticker"
+    },
+    {
+      "filename" : "Lemons.sticker"
+    },
+    {
+      "filename" : "80s.sticker"
+    },
+    {
+      "filename" : "Bouquet.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  }
+}
