@@ -37,7 +37,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		A7EB81ED1D8EEFA900B41812 /* Wallpaper Hearts.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Wallpaper Hearts.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A7EB81ED1D8EEFA900B41812 /* wallpaper ♥.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "wallpaper ♥.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A7EB81F11D8EEFA900B41812 /* StickerPackExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = StickerPackExtension.appex; sourceTree = BUILT_PRODUCTS_DIR; };
 		A7EB81F51D8EEFA900B41812 /* Stickers.xcstickers */ = {isa = PBXFileReference; lastKnownFileType = folder.stickers; name = Stickers.xcstickers; path = StickerPackExtension/Stickers.xcstickers; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -54,7 +54,7 @@
 		A7EB81EE1D8EEFA900B41812 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A7EB81ED1D8EEFA900B41812 /* Wallpaper Hearts.app */,
+				A7EB81ED1D8EEFA900B41812 /* wallpaper ♥.app */,
 				A7EB81F11D8EEFA900B41812 /* StickerPackExtension.appex */,
 			);
 			name = Products;
@@ -63,9 +63,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		A7EB81EC1D8EEFA900B41812 /* Wallpaper Hearts */ = {
+		A7EB81EC1D8EEFA900B41812 /* wallpaper ♥ */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A7EB81FE1D8EEFA900B41812 /* Build configuration list for PBXNativeTarget "Wallpaper Hearts" */;
+			buildConfigurationList = A7EB81FE1D8EEFA900B41812 /* Build configuration list for PBXNativeTarget "wallpaper ♥" */;
 			buildPhases = (
 				A7EB81EB1D8EEFA900B41812 /* Resources */,
 				A7EB81FD1D8EEFA900B41812 /* Embed App Extensions */,
@@ -75,9 +75,9 @@
 			dependencies = (
 				A7EB81F41D8EEFA900B41812 /* PBXTargetDependency */,
 			);
-			name = "Wallpaper Hearts";
+			name = "wallpaper ♥";
 			productName = "Wallpaper Hearts";
-			productReference = A7EB81ED1D8EEFA900B41812 /* Wallpaper Hearts.app */;
+			productReference = A7EB81ED1D8EEFA900B41812 /* wallpaper ♥.app */;
 			productType = "com.apple.product-type.application.messages";
 		};
 		A7EB81F01D8EEFA900B41812 /* StickerPackExtension */ = {
@@ -116,7 +116,7 @@
 					};
 				};
 			};
-			buildConfigurationList = A7EB81EA1D8EEFA900B41812 /* Build configuration list for PBXProject "Wallpaper Hearts" */;
+			buildConfigurationList = A7EB81EA1D8EEFA900B41812 /* Build configuration list for PBXProject "wallpaper ♥" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -128,7 +128,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A7EB81EC1D8EEFA900B41812 /* Wallpaper Hearts */,
+				A7EB81EC1D8EEFA900B41812 /* wallpaper ♥ */,
 				A7EB81F01D8EEFA900B41812 /* StickerPackExtension */,
 			);
 		};
@@ -301,7 +301,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A7EB81EA1D8EEFA900B41812 /* Build configuration list for PBXProject "Wallpaper Hearts" */ = {
+		A7EB81EA1D8EEFA900B41812 /* Build configuration list for PBXProject "wallpaper ♥" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A7EB81F81D8EEFA900B41812 /* Debug */,
@@ -317,14 +317,16 @@
 				A7EB81FC1D8EEFA900B41812 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
-		A7EB81FE1D8EEFA900B41812 /* Build configuration list for PBXNativeTarget "Wallpaper Hearts" */ = {
+		A7EB81FE1D8EEFA900B41812 /* Build configuration list for PBXNativeTarget "wallpaper ♥" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A7EB81FF1D8EEFA900B41812 /* Debug */,
 				A7EB82001D8EEFA900B41812 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
