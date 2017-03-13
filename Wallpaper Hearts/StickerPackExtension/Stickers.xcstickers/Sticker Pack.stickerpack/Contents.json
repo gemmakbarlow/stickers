@@ -1,0 +1,35 @@
+{
+  "stickers" : [
+    {
+      "filename" : "Red & Pink Roses.sticker"
+    },
+    {
+      "filename" : "Confetti.sticker"
+    },
+    {
+      "filename" : "80s.sticker"
+    },
+    {
+      "filename" : "Bouquets.sticker"
+    },
+    {
+      "filename" : "Arrows.sticker"
+    },
+    {
+      "filename" : "Daffodils.sticker"
+    },
+    {
+      "filename" : "Lemons.sticker"
+    },
+    {
+      "filename" : "Purple Roses.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "small"
+  }
+}
