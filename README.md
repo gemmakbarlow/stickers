@@ -4,8 +4,8 @@ The talk was given at Women in iOS (iOS SoHo) in Sep 2016 - see [this link](http
 
 ## project screenshots
 
-![sticker pack](Project Screenshots/Sticker Pack.png)
+![sticker pack](Screenshots/pack.png)
 
-![sticker pack](Project Screenshots/Xcode.png)
+![sticker pack](Screenshots/xcode.png)
 
 
