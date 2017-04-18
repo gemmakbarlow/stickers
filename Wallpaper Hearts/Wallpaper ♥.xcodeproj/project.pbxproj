@@ -116,7 +116,7 @@
 					};
 				};
 			};
-			buildConfigurationList = A7EB81EA1D8EEFA900B41812 /* Build configuration list for PBXProject "wallpaper ♥" */;
+			buildConfigurationList = A7EB81EA1D8EEFA900B41812 /* Build configuration list for PBXProject "Wallpaper ♥" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -303,7 +303,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A7EB81EA1D8EEFA900B41812 /* Build configuration list for PBXProject "wallpaper ♥" */ = {
+		A7EB81EA1D8EEFA900B41812 /* Build configuration list for PBXProject "Wallpaper ♥" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A7EB81F81D8EEFA900B41812 /* Debug */,
