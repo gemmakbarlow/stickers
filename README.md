@@ -9,3 +9,6 @@ The talk was given at Women in iOS (iOS SoHo) in Sep 2016 - see [this link](http
 ![sticker pack](Screenshots/xcode.png)
 
 
+## publication
+
+App has since been published as [Wallpaper Hearts](https://itunes.apple.com/us/app/wallpaper-hearts-love-ly-messaging-stickers/id1218546379?ls=1&mt=80) on the App Store. 
