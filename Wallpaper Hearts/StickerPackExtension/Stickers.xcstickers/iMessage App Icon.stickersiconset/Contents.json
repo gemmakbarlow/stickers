@@ -43,6 +43,12 @@
       "scale" : "2x"
     },
     {
+      "size" : "1024x1024",
+      "idiom" : "ios-marketing",
+      "filename" : "icon 1024 @1x-full-1.png",
+      "scale" : "1x"
+    },
+    {
       "size" : "27x20",
       "idiom" : "universal",
       "filename" : "icon 27x20 @2x.png",
